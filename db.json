@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Agent",
+      "lastName": "Smith",
+      "email": "test@domain.com",
+      "age": 77,
+      "address": "Breuergasse 6/8 Hamburg",
+      "profileImage": "https://dummyimage.com/250x250/313ba8/fff&text=User"
+    },
+    {
+      "id": 2,
+      "firstName": "Jason",
+      "lastName": "Lock",
+      "email": "okay@domain.com",
+      "age": 42,
+      "address": "Thorsten-Busse-Platz 4 Baden-Wurttemberg",
+      "profileImage": "https://dummyimage.com/250x250/313ba8/fff&text=Human"
+    },
+    {
+      "id": 3,
+      "firstName": "Neo",
+      "lastName": "The One",
+      "email": "yeah@domain.com",
+      "age": 39,
+      "address": "936 Kiehn Route Tennessee",
+      "profileImage": "https://dummyimage.com/250x250/313ba8/fff&text=Person"
+    }
+  ]
+}
