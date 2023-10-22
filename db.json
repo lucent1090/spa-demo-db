@@ -228,27 +228,22 @@
   ],
   "tasks": [
     {
-      "id": 1,
       "taskId": 0,
       "body": "The adventures STAR WARS! Oh... I've run out of words..."
     },
     {
-      "id": 1,
       "taskId": 1,
       "body": "Another Sports Day with mean gym teacher. Banana guy arrives!"
     },
     {
-      "id": 2,
       "taskId": 2,
       "body": "Poor boy finds ticket and goes to factory. The End!"
     },
     {
-      "id": 3,
       "taskId": 3,
       "body": "Bella. Vampire baby. Edward. Married."
     },
     {
-      "id": 4,
       "taskId": 4,
       "body": "A factory, a boy and a golden ticket. What next?"
     }

@@ -12,7 +12,6 @@
       profileImage: string;
     },...],
     tasks: [{
-      id: number; // user ID
       taskId: number;
       body: string;
     },...]
